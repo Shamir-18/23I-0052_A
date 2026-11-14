@@ -1,0 +1,5 @@
+onnx_file,accuracy_percent,file_size_mb,latency_ms_mean,latency_ms_p50,latency_ms_p99
+resnet18_fp32.onnx,90.47,42.616,11.133,11.082,12.442
+resnet18_int8_ort.onnx,89.25,10.767,6.493,6.447,7.441
+resnet18_structured.onnx,91.8,21.659,5.615,5.571,6.795
+resnet18_unstructured.onnx,91.43,42.616,11.213,11.076,12.819

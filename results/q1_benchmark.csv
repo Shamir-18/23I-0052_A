@@ -1,0 +1,4 @@
+model,accuracy_percent,file_size_mb,zipped_size_mb,total_weights,nonzero_weights,sparsity_percent,macs_millions,latency_ms_mean,latency_ms_p50,latency_ms_p99,throughput_img_per_s
+fp32,90.47,42.701,39.581,11173962,11173962,0.0,555.42,18.262,17.986,23.936,54.8
+ptq,90.49,10.895,9.717,,,,,8.205,8.184,9.475,121.9
+qat,91.05,10.895,9.714,,,,,8.289,8.244,9.612,120.6
