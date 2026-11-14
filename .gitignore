@@ -1,0 +1,7 @@
+# the CIFAR-10 download (170 MB) - anyone can download it again
+data/
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.tmp.zip
